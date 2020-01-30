@@ -1,0 +1,10 @@
+Simulation for virus: Syphilis
+Reproduction Number: 0.93, Mortality Number: 0.67
+Population Size: 100
+Initial Vaccinated: 60
+Initial Healthy: 30
+Initial Infected: 10
+
+Simulation Ended after 18 turns
+Total Dead: 18
+Total Vaccinated: 60
